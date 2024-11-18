@@ -19,7 +19,7 @@ After downloading the repo, npm i, and  npm run start.
 
 ## Usage
 
-Video Link Here
+[Video Link Here](https://drive.google.com/file/d/1wowehwML_3QVhXFwuxtnNteEw1U1lSAm/view?usp=sharing)
 
 ## Contributions
 
